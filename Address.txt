@@ -1,0 +1,5 @@
+1	Kankarbagh
+2	Kaliket Nagar
+3	Boring Road
+4	Rajiv Nagar
+5	Gola Road
